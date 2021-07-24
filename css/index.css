@@ -11,7 +11,7 @@ p {
 .customNav {
   position: fixed;
   width: 100%;
-  background: url("../images/transparency.png");
+  background: url("images/transparency.png");
   background-color: transparent !important;
   background-size: cover;
   z-index: 10;
@@ -28,7 +28,7 @@ p {
   margin: 0px 15px;
 }
 .dropdown-menu {
-  background: url('../images/transparency.png');
+  background: url('images/transparency.png');
   background-color: transparent !important;
   background-size: cover;
 }
@@ -50,7 +50,7 @@ p {
 }
 
 .jumbotron {
-  background-image: url('/images/rockOn_dark.jpg');
+  background-image: url('images/rockOn_dark.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   height: 500px;
@@ -122,7 +122,7 @@ p {
 }
 
 .emailContain {
-  background: url("/images/emailBG.jpg");
+  background: url("images/emailBG.jpg");
   background-size: cover;
   display: flex;
   align-items: center;
